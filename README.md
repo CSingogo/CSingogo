@@ -6,7 +6,7 @@
 
 - :computer: Computer Scientist and Data Scientist
 - :hammer_and_wrench: I build software with: `HTML` `CSS` `JavaScript` `React`...
-- :writing_hand:I Write about Software and Data blogs on [Medium](https://medium.com/@singogosingogo) 
+- :writing_hand:I Write about Software and Data on [Medium](https://medium.com/@singogosingogo) 
 - ⚡ I enjoy: watching football, listening to music, lifting weights and running :) 
 - :student: Bacherlors In Civil Engineering And Postgraduate Diploma in Computer Science
 
