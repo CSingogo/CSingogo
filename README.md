@@ -4,11 +4,11 @@
 [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/thisischisomo)
 
 
-- :computer: Computer Scientist and Data Scientist
+- :computer: Computer Scientist
 - :hammer_and_wrench: I build software with: `HTML` `CSS` `JavaScript` `React`...
 - :writing_hand:I Write about Software and Data on [Medium](https://medium.com/@singogosingogo) 
 - ⚡ I enjoy: watching football, listening to music, lifting weights and running :) 
-- :student: Bacherlors In Civil Engineering And Postgraduate Diploma in Computer Science
+- :student: Masters in Computer Science Student
 
 <!--
 **CSingogo/CSingogo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
