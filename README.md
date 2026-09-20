@@ -2,7 +2,7 @@
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/chisomo-singogo-b52986a5)
 [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/thisischisomo)
 
-
+<img src="https://skillicons.dev/icons?i=ts,react,nextjs,expo,py,fastapi,go" />
 - :computer: Computer Scientist
 
 
